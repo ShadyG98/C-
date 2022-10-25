@@ -1,5 +1,5 @@
 # C++
-Training C++ (Unreal Engine)
+Unreal Engine (C++)
 
 
 Los únicos ejercicios que hay en éste repositorio son sólo recopilatorios de aprendizaje a lo largo de distintos videos y foros de C++.
